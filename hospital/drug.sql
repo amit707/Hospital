@@ -1,0 +1,1 @@
+create table drug(Name varchar(20),TotalNumber varchar(30),Expiry varchar(20),UpdateOn varchar(20));
